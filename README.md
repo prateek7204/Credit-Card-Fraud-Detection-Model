@@ -1,7 +1,7 @@
-Credit Card Fraud Detection Model
+##Credit Card Fraud Detection Model
 This project implements a machine learning model to detect fraudulent credit card transactions using logistic regression. The model is developed in a Jupyter Notebook environment, utilizing the Pandas library for data manipulation and the LogisticRegression algorithm from Scikit-Learn.
 
-Installation
+##Installation
 To run this project locally, ensure you have Python 3.x installed along with the following dependencies:
 
 Jupyter Notebook
